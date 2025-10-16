@@ -2,7 +2,7 @@
 # AI-Driven Malware Detection Security (Dummy)
 # ==============================
 # Framework: FastAPI
-# Description: Simulated security module for the backend prototype
+# Description: Simulated security model
 # ================================================
 
 from fastapi import FastAPI, HTTPException
