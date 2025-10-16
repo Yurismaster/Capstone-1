@@ -60,7 +60,7 @@ def decrypt_data(data: str):
 def secure_connection():
     print("TLS 1.3 active - secure channel (demo)")
 
-# quick demo run
+# Demo
 if __name__ == "__main__":
     secure_connection()
     token = make_token("user01")
